@@ -6,7 +6,7 @@ This project demonstrates the cybersecurity principle of **Defense in Depth** by
 
 The objective is to implement multiple security controls so that a failure in one layer does not automatically expose the protected resource.
 
-**Project Type:** Cybersecurity / Linux System Administration  
+**Project Type:** Cybersecurity / 
 **Environment:** Linux, Python 3, Command Line  
 **Lab Platform:** LabEx
 
@@ -134,9 +134,9 @@ Layer-Defenses-Around-Local-Secret-Service/
 ├── screenshots/
 │   ├── 1_token.png
 │   ├── 2_localhost.png
-│   ├── 3_permissions.png
-│   ├── 4_logging.png
-│   └── 5_all.png
+│   ├── 3_permissions & logging.png
+│   ├── 4_all.png
+│   └── 5_Commands.png
 │
 └── .gitignore
 ```
@@ -249,4 +249,4 @@ https://labex.io/u/elisa-begum-11023986
 
 This project demonstrates how multiple security controls can work together to protect a sensitive resource. It provides practical experience with Linux security, application access control, network exposure management, and security logging.
 
-*Project completed as part of hands-on cybersecurity and Linux system administration practice using LabEx.*
+*Project completed as part of hands-on cybersecurity practice using LabEx.*
